@@ -13,7 +13,7 @@ Perfect for:Absolute beginners wanting the fastest and most affordable way to ge
 Build Foundational Skills: The Core Learning Path
 After your first agent, deepen your expertise and learn to create more robust, enterprise-level solutions.
 【LINK 4】RAGFlow Agent Unit 2 ($15.00)
-https://whop.com/ragflow-ai/ragflow-agent-unit-1-copy/
+## 💡 https://whop.com/ragflow-ai/ragflow-agent-unit-1-copy/
 Your Goal:Unlock the secrets to building reliable RAG agents that truly transform documents into intelligent answers.
 Perfect for:Those who have completed Unit 1 and want to advance their agent-building skills with more sophisticated techniques.
 👉 Advance to Agent Unit 2 Here!
