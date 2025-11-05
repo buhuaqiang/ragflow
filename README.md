@@ -8,28 +8,28 @@ New to RAGFlow? Start here. The Agent Unit series is designed for hands-on learn
 ## 💡 RAGFlow Agent Unit 1 (Just $9.98)
 Your Goal:Initialize RAGFlow and create your very first functional AI agent.
 Perfect for:Absolute beginners wanting the fastest and most affordable way to get a demo running.
-👉 Buy Agent Unit 1 & Start Building Today!
+## 👉 Buy Agent Unit 1 & Start Building Today!
 ## 💡 https://whop.com/ragflow-ai/ragflow-agent-unit-1/
 Build Foundational Skills: The Core Learning Path
 After your first agent, deepen your expertise and learn to create more robust, enterprise-level solutions.
-【LINK 4】RAGFlow Agent Unit 2 ($15.00)
+## 💡RAGFlow Agent Unit 2 ($15.00)
 ## 💡 https://whop.com/ragflow-ai/ragflow-agent-unit-1-copy/
 Your Goal:Unlock the secrets to building reliable RAG agents that truly transform documents into intelligent answers.
 Perfect for:Those who have completed Unit 1 and want to advance their agent-building skills with more sophisticated techniques.
-👉 Advance to Agent Unit 2 Here!
+## 👉 Advance to Agent Unit 2 Here!
 ## 💡 https://whop.com/ragflow-ai/ragflow-agent-units-3/
-【LINK 5】RAGFlow Agent Units 3 ($26.98)
+## 💡RAGFlow Agent Units 3 ($26.98)
 Your Goal:Master complex RAG workflows and learn how to turn them into effective revenue-generating funnels.
 Perfect for:Developers focused on productizing their AI skills and understanding the business side of RAG.
-👉 Master Advanced Workflows with Unit 3!
+## 👉 Master Advanced Workflows with Unit 3!
 Become an Expert: The Advanced Mastery Path
 For those who want to move beyond implementation and master the advanced theory behind high-precision AI systems.
-【LINK 1】RAGFLOW Advanced Tutorial 1 ($18.96)
+## 💡 RAGFLOW Advanced Tutorial 1 ($18.96)
 ## 💡 https://whop.com/ragflow-ai/ragflow-advanced-tutoria-1/
 Your Goal:Specialize in building high-precision AI tutors optimized for GPT.
 Perfect for:Users focused on achieving the highest levels of accuracy and relevance in AI-generated responses.
-👉 Get Advanced Tutorial 1 for Precision AI!
-【LINK 2】RAGFLOW Advanced Tutorial 2 ($68.98)
+## 👉 Get Advanced Tutorial 1 for Precision AI!
+## 💡RAGFLOW Advanced Tutorial 2 ($68.98)
 ## 💡 https://whop.com/ragflow-ai/ragflow-advanced-tutoria-2/
 Your Goal:Achieve master-level proficiency in Retrieval-Augmented Generation with advanced coaching for AI professionals.
 Perfect for:The ultimate deep dive. This is the most comprehensive course for those aiming to become true RAG experts.
