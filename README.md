@@ -48,7 +48,6 @@ Don't just keep up with the AI revolution—lead it. Select your course now and 
 
 ## 🎮 Demo
 
-Try our demo at [https://demo.ragflow.io](https://demo.ragflow.io).
 
 <div align="center" style="margin-top:20px;margin-bottom:20px;">
 <img src="https://raw.githubusercontent.com/infiniflow/ragflow-docs/refs/heads/image/image/chunking.gif" width="1200"/>
