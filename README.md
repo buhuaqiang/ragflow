@@ -1,3 +1,21 @@
+🚀 Join Our Official Telegram Community!📡
+Unlock the Future of RAG Technology with Like-Minded Innovators
+✨ Why Join?
+✅ Get exclusive early accessto RAGFlow updates
+✅ Real-time technical supportfrom core developers
+✅ Live Q&A sessionswith AI experts every week
+✅ Free resources& cheat sheets for mastering RAG
+✅ Collaborateon groundbreaking AI projects
+✉️ Tap the Logo to Join Now:
+https://img.icons8.com/color/48/000000/telegram-app.png
+https://t.me/RagFlowAI
+🔥 Special Bonus for New Members:
+First 100 joiners get our "RAG Cheat Sheet PDF"instantly!
+💬 "Our community solved my deployment issue in 15 minutes - game changer!"
+David K., ML Engineer
+⏰ Don't get left behind in the AI revolution!
+Tap the blue paper plane → @RagFlowAI
+
 
 ## 💡 Of course. Here is a persuasive purchase copy for RAGflow AI, designed to guide users through the five links in a logical progression.
 Unlock the Full Power of RAGFlow: From First Agent to AI Expert
