@@ -3,55 +3,50 @@
 <img src="web/src/assets/logo-with-text.svg" width="520" alt="ragflow logo">
 </a>
 </div>
-1111111111111111111111111111111111111111111111
-<p align="center">
-  <a href="./README.md"><img alt="README in English" src="https://img.shields.io/badge/English-DBEDFA"></a>
-  <a href="./README_zh.md"><img alt="简体中文版自述文件" src="https://img.shields.io/badge/简体中文-DFE0E5"></a>
-  <a href="./README_tzh.md"><img alt="繁體版中文自述文件" src="https://img.shields.io/badge/繁體中文-DFE0E5"></a>
-  <a href="./README_ja.md"><img alt="日本語のREADME" src="https://img.shields.io/badge/日本語-DFE0E5"></a>
-  <a href="./README_ko.md"><img alt="한국어" src="https://img.shields.io/badge/한국어-DFE0E5"></a>
-  <a href="./README_id.md"><img alt="Bahasa Indonesia" src="https://img.shields.io/badge/Bahasa Indonesia-DFE0E5"></a>
-  <a href="./README_pt_br.md"><img alt="Português(Brasil)" src="https://img.shields.io/badge/Português(Brasil)-DFE0E5"></a>
-</p>
 
-<p align="center">
-    <a href="https://x.com/intent/follow?screen_name=infiniflowai" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/infiniflow?logo=X&color=%20%23f5f5f5" alt="follow on X(Twitter)">
-    </a>
-    <a href="https://demo.ragflow.io" target="_blank">
-        <img alt="Static Badge" src="https://img.shields.io/badge/Online-Demo-4e6b99">
-    </a>
-    <a href="https://hub.docker.com/r/infiniflow/ragflow" target="_blank">
-        <img src="https://img.shields.io/docker/pulls/infiniflow/ragflow?label=Docker%20Pulls&color=0db7ed&logo=docker&logoColor=white&style=flat-square" alt="docker pull infiniflow/ragflow:v0.21.1">
-    </a>
-    <a href="https://github.com/infiniflow/ragflow/releases/latest">
-        <img src="https://img.shields.io/github/v/release/infiniflow/ragflow?color=blue&label=Latest%20Release" alt="Latest Release">
-    </a>
-    <a href="https://github.com/infiniflow/ragflow/blob/main/LICENSE">
-        <img height="21" src="https://img.shields.io/badge/License-Apache--2.0-ffffff?labelColor=d4eaf7&color=2e6cc4" alt="license">
-    </a>
-    <a href="https://deepwiki.com/infiniflow/ragflow">
-        <img alt="Ask DeepWiki" src="https://deepwiki.com/badge.svg">
-    </a>
-</p>
+Of course. Here is a persuasive purchase copy for RAGflow AI, designed to guide users through the five links in a logical progression.
+Unlock the Full Power of RAGFlow: From First Agent to AI Expert
+Ready to build high-precision, enterprise-ready AI applications? RAGFlowis one of GitHub's fastest-growing open-source projects for a reason: it's production-ready. Now, you can master it with official tutorials and agent units from the core contributor himself.
+Choose your path below and start building intelligent systems that turn complex documents into accurate answers.
+Start Your Journey: The Quick Start Path (Ideal for Beginners)
+New to RAGFlow? Start here. The Agent Unit series is designed for hands-on learners who want to see results fast.
+【LINK 3】RAGFlow Agent Unit 1 (Just $9.98)
+Your Goal:Initialize RAGFlow and create your very first functional AI agent.
+Perfect for:Absolute beginners wanting the fastest and most affordable way to get a demo running.
+👉 Buy Agent Unit 1 & Start Building Today!
+https://whop.com/ragflow-ai/ragflow-agent-unit-1/
+Build Foundational Skills: The Core Learning Path
+After your first agent, deepen your expertise and learn to create more robust, enterprise-level solutions.
+【LINK 4】RAGFlow Agent Unit 2 ($15.00)
+https://whop.com/ragflow-ai/ragflow-agent-unit-1-copy/
+Your Goal:Unlock the secrets to building reliable RAG agents that truly transform documents into intelligent answers.
+Perfect for:Those who have completed Unit 1 and want to advance their agent-building skills with more sophisticated techniques.
+👉 Advance to Agent Unit 2 Here!
+https://whop.com/ragflow-ai/ragflow-agent-units-3/
+【LINK 5】RAGFlow Agent Units 3 ($26.98)
+Your Goal:Master complex RAG workflows and learn how to turn them into effective revenue-generating funnels.
+Perfect for:Developers focused on productizing their AI skills and understanding the business side of RAG.
+👉 Master Advanced Workflows with Unit 3!
+Become an Expert: The Advanced Mastery Path
+For those who want to move beyond implementation and master the advanced theory behind high-precision AI systems.
+【LINK 1】RAGFLOW Advanced Tutorial 1 ($18.96)
+https://whop.com/ragflow-ai/ragflow-advanced-tutoria-1/
+Your Goal:Specialize in building high-precision AI tutors optimized for GPT.
+Perfect for:Users focused on achieving the highest levels of accuracy and relevance in AI-generated responses.
+👉 Get Advanced Tutorial 1 for Precision AI!
+【LINK 2】RAGFLOW Advanced Tutorial 2 ($68.98)
+https://whop.com/ragflow-ai/ragflow-advanced-tutoria-2/
+Your Goal:Achieve master-level proficiency in Retrieval-Augmented Generation with advanced coaching for AI professionals.
+Perfect for:The ultimate deep dive. This is the most comprehensive course for those aiming to become true RAG experts.
+👉 Become a RAG Master with Advanced Tutorial 2!
+🚀 Not Sure Which Path to Choose?
+If you're new,begin with Agent Unit 1 (Link 3).
+For a structured skill build,follow the path: Unit 1 → Unit 2 → Unit 3 (Links 3, 4, 5).
+If your priority is building expert AI tutors,go for Advanced Tutorial 1 (Link 1)after the basics.
+To achieve complete mastery,Advanced Tutorial 2 (Link 2)is your final destination.
+Don't just keep up with the AI revolution—lead it. Select your course now and leverage the power of production-ready RAGFlow
 
-<h4 align="center">
-  <a href="https://ragflow.io/docs/dev/">Document</a> |
-  <a href="https://github.com/infiniflow/ragflow/issues/4214">Roadmap</a> |
-  <a href="https://twitter.com/infiniflowai">Twitter</a> |
-  <a href="https://discord.gg/NjYzJD3GM3">Discord</a> |
-  <a href="https://demo.ragflow.io">Demo</a>
-</h4>
 
-<div align="center" style="margin-top:20px;margin-bottom:20px;">
-<img src="https://raw.githubusercontent.com/infiniflow/ragflow-docs/refs/heads/image/image/ragflow-octoverse.png" width="1200"/>
-</div>
-
-<div align="center">
-<a href="https://trendshift.io/repositories/9064" target="_blank"><img src="https://trendshift.io/api/badge/repositories/9064" alt="infiniflow%2Fragflow | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div>
-
-<details open>
 <summary><b>📕 Table of Contents</b></summary>
 
 - 💡 [What is RAGFlow?](#-what-is-ragflow)
